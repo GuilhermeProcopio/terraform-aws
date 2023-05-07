@@ -8,3 +8,6 @@
 
 #secret 
 *.pem
+
+#ansible
+hosts.yaml
