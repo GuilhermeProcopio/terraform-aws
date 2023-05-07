@@ -10,4 +10,4 @@
 *.pem
 
 #ansible
-hosts.yaml
+**/hosts.yaml
