@@ -6,7 +6,7 @@
     <a href="https://www.terraform.io/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" height="30" align="center"/>
     </a>
-    <a href="">
+    <a href="https://aws.amazon.com/pt/?nc2=h_lg">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30" align="center" />
     </a>
 </div>
