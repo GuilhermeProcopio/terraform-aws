@@ -9,5 +9,5 @@
 #secret 
 *.pem
 
-#ansible
-**/hosts.yaml
+### Ansible ###
+*.retry
