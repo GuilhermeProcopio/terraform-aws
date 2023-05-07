@@ -1,4 +1,16 @@
 # Terraform com Ansible na AWS
+<div>
+    <a href="https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="30" height="30" align="center"/>
+    </a>
+    <a href="https://www.terraform.io/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="30" height="30" align="center"/>
+    </a>
+    <a href="">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="30" height="30" align="center" />
+    </a>
+</div>
+
 
 ## Neste projeto foi utilizado:
 - Terraform para criação de instância EC2 na AWS;
@@ -32,10 +44,10 @@
 ### Ansible
 
 
-`sudo apt update`
-`sudo apt install software-properties-common`
-`sudo add-apt-repository --yes --update ppa:ansible/ansible`
-`sudo apt-get install ansible`
+ - `sudo apt update`
+ - `sudo apt install software-properties-common`
+ - `sudo add-apt-repository --yes --update ppa:ansible/ansible`
+ - `sudo apt-get install ansible`
 
 
 ### Terraform
